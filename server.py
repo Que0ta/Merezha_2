@@ -13,6 +13,11 @@ users = {}
 def index():
     return 'Сервер працює!'
 
+@socketio.on('nova')
+def customFunction():
+    print('Перевірка!')
+    send('\n\n\n\n\n\n\n\nПеревірка успішна! =)')
+
 @socketio.on('connect')
 def handle_connect():
     print(f"[ПІДКЛЮЧЕННЯ] Клієнт: {request.sid}")
