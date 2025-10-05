@@ -32,7 +32,7 @@ It’s simple to set up, fully extensible, and can be hosted on any platform tha
 In ```server.py``` you can change the ```secret key``` config at the start! 
 
 ## 2. Create a Render account.
-[Hosting is here]((https://render.com/)) 
+You can see the hosting[right here]((https://render.com/)) 
 
 ## ⚙️ 3. Create a new Web Service
 * Click “New +” → Web Service
