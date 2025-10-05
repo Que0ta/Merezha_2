@@ -52,6 +52,3 @@ In ```server.py``` you can change the ```secret key``` config at the start!
 
 
 
-Choose branch: main
-
-
