@@ -1,4 +1,4 @@
-# 💬 Flask-SocketIO Web Chat
+ # 💬 Flask-SocketIO Web Chat
 
 A real-time web chat application built with **Flask** and **Socket.IO**, providing instant messaging between users through a lightweight Python backend.  
 It’s simple to set up, fully extensible, and can be hosted on any platform that supports Python (Render, Railway, VPS, etc.).
